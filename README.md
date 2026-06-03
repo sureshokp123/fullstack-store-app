@@ -207,11 +207,13 @@ This project helped me gain practical experience in:
 
 ## 👨‍💻 Author
 
-**Suresh Kumar**
+**Sureshkumar**
 
 Full Stack Developer
 
-**Skills:** React.js | Node.js | Express.js | MongoDB | JavaScript | TypeScript
+LinkedIn: https://www.linkedin.com/in/sureshkumarvaratharaj/
+
+**Skills:** React.js | Node.js | Express.js | MongoDB | JavaScript | TypeScript | Next.js
 
 ---
 
